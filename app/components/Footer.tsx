@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="flex justify-center gap-6">
           {/* Twitter */}
           <a 
-            href="https://twitter.com/yourhandle" 
+            href="https://x.com/Stra_7_nger?t=jhdNNuKP2ea4kyeU7LH8IQ&s=09" 
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Twitter"
@@ -23,7 +23,7 @@ export default function Footer() {
           
           {/* Instagram */}
           <a 
-            href="https://instagram.com/yourhandle" 
+            href="https://www.instagram.com/steven_rogers_07/profilecard/?igsh=c3RodGtpbXkzY3My" 
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
